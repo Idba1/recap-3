@@ -7,5 +7,4 @@ function details(info){
     }
 }
 
-
 console.log(details({myName:"Idba", age: 20}));
